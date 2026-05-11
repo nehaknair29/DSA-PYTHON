@@ -1,0 +1,6 @@
+while i<=3:
+    j=1
+    while j<=2:
+        print(f"i={i}, j={j}")
+        j+=1
+    i+=1
